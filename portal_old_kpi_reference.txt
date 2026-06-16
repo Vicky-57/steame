@@ -1,0 +1,117 @@
+================================================================================
+STEAMEE PORTAL — OLD KPI REFERENCE & DATA POINTS
+================================================================================
+
+This document serves as a comprehensive reference guide for the technical and operational
+metrics that were already designed, tracked, or partially surfaced in the old Steamee
+portal (https://ironbox.co.in). Use this as an advisory-grade resource when discussing
+dashboard integrations with the tech team.
+
+--------------------------------------------------------------------------------
+1. TURNAROUND TIME (TAT) ANALYTICS SCREEN
+--------------------------------------------------------------------------------
+URL: https://ironbox.co.in/Iron/public/detail_tat_analytics
+
+A. Pending TAT Stage Breakdown
+   * Upcoming Pending (Scheduled/New orders awaiting pickup)
+     - Current state count (e.g., 21 pending)
+     - Trend comparison (e.g., down 12.5% vs. previous 24)
+   * Ironing Pending (Orders checked in at store, ready for ironing)
+     - Current state count
+     - Trend comparison vs. previous period
+   * Delivery Pending (Orders ironed, packaged, and awaiting rider dispatch)
+     - Current state count
+     - Trend comparison vs. previous period
+   * RTO Pending (Returned to Origin / Retriggered / Cancelled returns)
+     - Current state count
+     - Trend comparison vs. previous period
+
+B. Historical Pending Trends (Filters: Day / Week / Month / Year)
+   * Upcoming Pending Trend Chart
+   * Ironing Pending Trend Chart
+   * Delivery Pending Trend Chart
+   * RTO Pending Trend Chart
+
+C. Store-wise TAT Performance
+   * Chart showing the percentage of orders delivered within target benchmark (Success)
+     vs. delayed orders (SLA Breach), groupable by Day/Week/Month/Year.
+
+D. Ironer Efficiency & Speed
+   * Ironer Efficiency (Avg TAT Hours): Ranks ironers by the average hours taken to complete a garment.
+   * Ironer TAT & Volume Explorer:
+     - Fields: Period (Month/Year), Ironer Name, Total Orders processed, Average TAT (Hours).
+     - Standard benchmark range: varies from fast (e.g., 9h-18h) to delayed (e.g., 100h-270h).
+
+--------------------------------------------------------------------------------
+2. USER SEGMENT ANALYTICS SCREEN
+--------------------------------------------------------------------------------
+URL: https://ironbox.co.in/Iron/public/detail_user_analytics
+
+A. User Engagement Status Cards (Real-time Counts)
+   * Total Users: Lifetime registered app sign-ups.
+   * Onboarded: App downloads who placed and completed at least 1 order.
+   * No Address: App sign-ups with profile created but no delivery address saved.
+   * Engaged: Active users with high search/interaction or recent bookings.
+   * Active: Customers placing orders in the last 30 days.
+   * Value: VIP tier users with high repeat booking frequency and higher AOV.
+   * Churned: Inactive users with no bookings in the last 60+ days.
+   * Inactive: Customers dormant for >30 days but not yet fully churned.
+
+B. Growth & Retention Trends (Filters: Day / Week / Month / Year)
+   * New User Registration Trend: Tracks user growth by city and store via address maps.
+   * User Retention & Status Trend: Stacked area/line chart of Active, Churned, and Inactive users.
+   * Churned User Personas: Breakdown of dormant users based on their historical lifetime loyalty.
+   * Active User Personas: Loyalty tier breakdown (Bronze, Silver, Gold, VIP) of customers active in the last 30 days.
+   * Retention & Repeat Customer Rate: Measures period-over-period return rates.
+   * Active User Persona Split: Unique active users per period grouped by loyalty type.
+   * Address Adoption Trend: Users with saved addresses vs. profile-only registrations.
+   * Address Conversion Trend: Compares users with saved addresses who ordered vs. those who stayed idle.
+   * Average Booking Frequency: Average orders per unique user across different persona types.
+   * Revenue vs. Orders by Persona: Financial output split by customer loyalty segments.
+   * Complaints & Refund Performance by Persona: Tracks which loyalty tiers experience the most complaints and refund leaks.
+
+C. User Retention Cohort Table (Calendar Year Grid)
+   * Tracks monthly sign-ups (e.g., Jan 2026, Apr 2026) and displays their repeat booking percentage in subsequent months (Feb, Mar, Apr...).
+
+--------------------------------------------------------------------------------
+3. DEVELOPER API DIRECTORY (bala_sr_final)
+--------------------------------------------------------------------------------
+These are the exact backend APIs prepared by the development team that feed these screens.
+Refer to these names when telling the developer what data to fetch for the dashboards:
+
+*  Pending TAT Stage segments:
+   - Upcoming Pending: /api/upcoming_pending_segment
+   - Ironing Pending: /api/ironing_pending_segment
+   - Delivery Pending: /api/delivery_pending_segment
+   - RTO Pending: /api/rto_pending_segment
+   - Historical Trends Data: /api/pending_charts_data
+
+*  TAT Performance:
+   - Store TAT Performance: /api/get_store_tat_analysis
+   - Ironer TAT Trend: /api/get_ironer_tat_trend
+   - Ironer TAT table: /api/get_ironer_tat_table
+   - TAT Breaches list: /api/get_top_tat_breaches
+
+*  User Analytics:
+   - User Segment Splits: /api/getUser_Segments (returns Active, Churned, etc.)
+   - New User Registration: /api/get_new_user_trend
+   - User Status Trends: /api/get_user_status_trend
+   - Churned Personas: /api/get_churned_persona_trend
+   - Active Personas: /api/get_active_persona_trend
+   - Retention Metrics: /api/get_retention_metrics
+   - MAU splits: /api/get_mau_split_trend
+   - Address Adoption: /api/get_address_adoption_trend
+   - Address Conversion: /api/get_address_conversion_trend
+   - Booking Pattern: /api/get_booking_pattern_trend
+   - Persona Performance: /api/get_persona_performance_trend
+   - User Revenue: /api/user_revenue_trend
+   - User Clothes Volume: /api/user_clothes_trend
+
+*  Ironer & Staff Performance:
+   - Ironer Analytics: /api/ironer-analytics
+   - Attendance Analytics: /api/attendance-analytics
+   - Ironer Performance API: /api/ironer-performance-analytics
+   - Ironer Summary API: /api/ironer-summary-analytics
+   - Detailed Staff Perf: /api/get_staff_detailed_performance
+   - Ironer Complaints: /api/get_ironer_complaint_analysis
+================================================================================

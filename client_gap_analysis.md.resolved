@@ -1,0 +1,49 @@
+# Steamee: Client Wishlist vs. KPI Framework Gap Analysis
+
+This report compares the client's original functional requirements from `Reports 1 , detailed store wise.xlsx` with our structured technical blueprint, `STEAMEE_KPI_Change_Log_v3.xlsx`.
+
+## 1. Executive Summary
+The updated KPI Framework (v3) covers approximately **85%** of the client's original requested metrics. We have added technical rigour (formulas, API mappings) and identified critical data bugs (NULL timestamps, 81 open audits) that were missing from the original wishlist. The remaining gaps are primarily **Geospatial Analytics** (Heatmaps) and **Digital Marketing Attribution** (Ads spend tracking).
+
+---
+
+## 2. Functional Coverage Analysis
+
+| Client Requirement Category | Status | Coverage in KPI Framework v3 |
+| :--- | :--- | :--- |
+| **Store Operations** (Upcoming, Received, SLA) | ✅ Full | **Q1–Q9**: TAT, SLA, and real-time pending counts are all mapped to specific APIs. |
+| **Financial Reporting** (Sales, Cash/Online, AOV) | ✅ Full | **Q28–Q36**: Net Revenue, Payment Splits, and AOV are fully defined with fixes for the "Cash vs COD" field naming bug. |
+| **Worker Performance** (Ironer/Rider Productivity) | ✅ Full | **Q9b, Q10, Q18a**: Attendance, productivity, and efficiency derived from `/ironer-performance-analytics` and `/attendance-analytics`. |
+| **Customer MIS** (MAU, Churn, Cohorts) | ✅ Full | **Q19, Q26, Q39**: Retention and MAU now use confirmed `/api/cohort-analytics` and `/api/user-analytics`. |
+| **Audit & Quality** (Audit Resolution, Complaints) | 🟢 Enhanced | **Q45a**: Added tracking for the 81 open audit issues found during portal audit — a critical risk not in the original list. |
+| **Digital Marketing ROI** (FB/Google Ads Attribution) | ⚠️ GAP | **G1, G2**: Blocked because the database lacks a `marketing_spend` table. Attribution logic exists in framework but data is missing. |
+| **Geospatial/Heatmaps** (Route mapping, Heatmaps) | ❌ GAP | Currently tracked at **Zone/Store** level. Granular Heatmapping (Pincode/Coordinate level) is not in the current API scope. |
+
+---
+
+## 3. What We Added (The "Technician's Value")
+The client's original list was a functional wishlist. We have transformed it into an implementation-ready blueprint by adding:
+
+1.  **Bug Identification:** Flagged that the main dashboard filter returns a `500 Server Error` and the primary Analytics API returns `negative order counts`.
+2.  **Logic Fixes:** Resolved the `payment_mode` mismatch (SQL was looking for 'COD' but DB stores 'Cash').
+3.  **Real-time Readiness:** Mapped specific KPIs to live-action APIs like `/api/getOrdersTATData` for instant visibility.
+4.  **Workforce Control:** Added the "Audit Compliance Rate" to provide top-down visibility on store health.
+
+---
+
+## 4. Remaining Gaps & Action Plan
+
+### Gap A: Digital Marketing Attribution (FB/Insta/Google Ads)
+*   **Requirement:** Client wants to see ROI of ads.
+*   **Challenge:** Tech team is not logging spend data in the DB.
+*   **Action Needed:** Provide tech team with a schema for a new `marketing_spend` table.
+
+### Gap B: Geospatial Analytics (Heatmaps & Routes)
+*   **Requirement:** Heat mapping of orders and Route mapping for riders.
+*   **Challenge:** Current APIs provide summary data, not coordinate-level traces.
+*   **Action Needed:** Phase 3 requirement. Requires integration of lat/long tracking from the mobile app into a dedicated mapping layer (e.g., Google Maps API or Mapbox).
+
+### Gap C: Pincode-level Granularity
+*   **Requirement:** Profitability and slot-wise orders by Pincode.
+*   **Challenge:** Most APIs currently group by `zone_id`.
+*   **Action Needed:** Request tech team to add `pincode` as an optional filter/group-by dimension in the `user-analytics` and `reports` APIs.
