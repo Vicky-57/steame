@@ -1,0 +1,4276 @@
+{
+  "mapped": [
+    {
+      "metric": "Total Orders received in a day",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Total order pending for ironing",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Total order ironed in a day",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Total orders Delivered in a day",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Total pending orders undelievered in a day",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Orders Returened in a day",
+      "category": "Order",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "No of New Customers downloaded the app",
+      "category": "Customers",
+      "kpi": "Q20",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Onboarded Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "No Address Users"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New User Registration Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Address Adoption Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Address Conversion Trend"
+        ]
+      ]
+    },
+    {
+      "metric": "No of New customers placed an order",
+      "category": "Customers",
+      "kpi": "Q20",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Onboarded Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "No Address Users"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New User Registration Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Address Adoption Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Address Conversion Trend"
+        ]
+      ]
+    },
+    {
+      "metric": "No of Inactive customer",
+      "category": "Customers",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "No of churn customers",
+      "category": "Customers",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Retention Cohort data analysis for a year - to know the retention rate over a year",
+      "category": "Customers",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Sales in a day",
+      "category": "Sales",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "total No of clothes Ironed in a day",
+      "category": "Sales",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "total Amount of Discounts & Offers used",
+      "category": "Sales",
+      "kpi": "Q23",
+      "locs": [
+        [
+          "6. Growth & Marketing",
+          "Table",
+          "Promo Code ROI Analysis"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Cash sales",
+      "category": "Sales",
+      "kpi": "Q31",
+      "locs": [
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Order Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Pie Chart",
+          "Payment Mode Split"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Online sales",
+      "category": "Sales",
+      "kpi": "Q31",
+      "locs": [
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Order Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Pie Chart",
+          "Payment Mode Split"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Pickup / Delivery charges paid per day",
+      "category": "Sales",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "Avg order value",
+      "category": "Sales",
+      "kpi": "Q30",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Average Booking Frequency"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Average Order Value (AOV)"
+        ]
+      ]
+    },
+    {
+      "metric": "Avg Volume per order",
+      "category": "Sales",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Complaints placed",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Complaints Open state",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Complaints in processs stage",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Total Complaints in closed/resolved stage",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Split of sort of compalints raised",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "On time pickup %",
+      "category": "Order status",
+      "kpi": "Q1",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Headline Card",
+          "SLA Pickup Compliance"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Upcoming Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Upcoming Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "On time delivery %",
+      "category": "Order status",
+      "kpi": "Q3",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Delivery Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Delivery Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Delay Pickup %",
+      "category": "Order status",
+      "kpi": "Q1",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Headline Card",
+          "SLA Pickup Compliance"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Upcoming Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Upcoming Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Delayed delivery %",
+      "category": "Order status",
+      "kpi": "Q3",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Delivery Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Delivery Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Pressmen Performance metrics",
+      "category": "Employee/ Ironers",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "Pressman based complaints",
+      "category": "Employee/ Ironers",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Graph showing weekly clothes ration",
+      "category": "Employee/ Ironers",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "Upcoming orders",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Received Orders",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Inprogress orders",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Delivery pending orders",
+      "category": "Store Wise",
+      "kpi": "Q3",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Delivery Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Delivery Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Delivery completed orders",
+      "category": "Store Wise",
+      "kpi": "Q3",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Delivery Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Delivery Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Return Orders",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Cancelled Order",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise clothes day wise Upcoming Orders",
+      "category": "Store Wise",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise clothes day wise received orders",
+      "category": "Store Wise",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise cllothes day wise delivery pending",
+      "category": "Store Wise",
+      "kpi": "Q3",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Table",
+          "Store Performance Grid"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "Delivery Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "Delivery Pending Trend"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise Churn /Active/ inactive customers",
+      "category": "Store Wise",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ Month wise Sales",
+      "category": "Store Wise",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ Promocode expenese",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ logistics order",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ Complaints",
+      "category": "Store Wise",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ logistics cost",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Daywise/Week wise/ Payments (online and offline)",
+      "category": "Store Wise",
+      "kpi": "Q31",
+      "locs": [
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Order Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Pie Chart",
+          "Payment Mode Split"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise daily , weekly , monthly wise order chart",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise Total LTV customer Valuee",
+      "category": "Store Wise",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Weekly, monthly customer active / churn drop ratio",
+      "category": "Store Wise",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise / Rider wise / Task Completion vs Cash collection",
+      "category": "Store Wise",
+      "kpi": "Q31",
+      "locs": [
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Order Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Pie Chart",
+          "Payment Mode Split"
+        ]
+      ]
+    },
+    {
+      "metric": "Total clothes vs orders",
+      "category": "Reports",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "weekly and monthly active users",
+      "category": "Reports",
+      "kpi": "Q19",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Active Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Total Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Engaged Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Active Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Value Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Active User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Average Booking Frequency"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "6. Growth & Marketing",
+          "Headline Card",
+          "Monthly Active Users (MAU)"
+        ]
+      ]
+    },
+    {
+      "metric": "Online vs COD vs orders",
+      "category": "Reports",
+      "kpi": "Q31",
+      "locs": [
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Order Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Pie Chart",
+          "Payment Mode Split"
+        ]
+      ]
+    },
+    {
+      "metric": "Customer total life time value",
+      "category": "Reports",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise vs customer wise vs LTV",
+      "category": "Reports",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Store Avg monthly sales",
+      "category": "Reports",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "Ironer weekly order vs clothes report (detailed & summary)",
+      "category": "Reports",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ]
+    },
+    {
+      "metric": "Cohort data analysis",
+      "category": "Reports",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "having multiple filter for better order viewing with status and all the required information",
+      "category": "Order list",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Showing store wise Slot time peak order flow",
+      "category": "Slot wise order",
+      "kpi": "Q9a",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Heatmap",
+          "Slot Peak Order Flow"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Scheduled Orders / Pickup Hold"
+        ]
+      ]
+    },
+    {
+      "metric": "Store wise , logistic person orders , day wise . Week wise",
+      "category": "Logistics",
+      "kpi": "Q10",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Rider Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Logistics Performance Breakdown Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Delivery Partner Performance Grid (3P Fleets)"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ]
+    },
+    {
+      "metric": "Zone and cluster wise",
+      "category": "Logistics",
+      "kpi": "Q10",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Rider Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Logistics Performance Breakdown Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Delivery Partner Performance Grid (3P Fleets)"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ]
+    },
+    {
+      "metric": "Logistics drop ration / cancellation / fullfilment",
+      "category": "Logistics",
+      "kpi": "Q10",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Rider Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Logistics Performance Breakdown Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Delivery Partner Performance Grid (3P Fleets)"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ]
+    },
+    {
+      "metric": "Order wise SLA , fullfiment timeline",
+      "category": "Logistics",
+      "kpi": "Q10",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Rider Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Logistics Performance Breakdown Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Delivery Partner Performance Grid (3P Fleets)"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ]
+    },
+    {
+      "metric": "Company overall /Zone wise/Store wise /Rider wise Accepted order / Inprogress/Pending/Delivered",
+      "category": "Logistics",
+      "kpi": "Q10",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Rider Performance Grid"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Logistics Performance Breakdown Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Table",
+          "Delivery Partner Performance Grid (3P Fleets)"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ]
+    },
+    {
+      "metric": "Ability to create customer cohorts",
+      "category": "Complaint managment",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Ability to target overall user base",
+      "category": "Complaint managment",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Send Personalised offers and discounts",
+      "category": "Complaint managment",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Get Performance Visibility of Campaings and Experiments",
+      "category": "Complaint managment",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    },
+    {
+      "metric": "Dash Borad withs tore wise viewing and order wise lisitng",
+      "category": "1",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Reports/ store wise",
+      "category": "2",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Reports/ sales",
+      "category": "3",
+      "kpi": "Q28",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Gross Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Completed Sales vs Pending Sales"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "1. Overview Hub",
+          "Line Chart",
+          "Sales Volume vs. Order Size Analysis"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Revenue vs Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Revenue vs. Orders by Persona"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Headline Card",
+          "Gross Sales Value"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] Expense Analytics Dashboard"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Order vs Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Online vs COD Revenue Trend"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Completed Orders History"
+        ]
+      ]
+    },
+    {
+      "metric": "Reprots / Ironers",
+      "category": "4",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Reports/ MIS",
+      "category": "5",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Promocode - Offer and Customer Retargetting Funnel and automation - Customer Jounery",
+      "category": "6",
+      "kpi": "Q9",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Today's Active Orders"
+        ],
+        [
+          "1. Overview Hub",
+          "KPI Card",
+          "Pending Orders Sales Contribution"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "User vs Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Upcoming Clothes vs Bag Orders"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Active Work-In-Progress Orders"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Orders vs Clothes vs Revenue"
+        ],
+        [
+          "11. Operational Lists & Tables",
+          "Table",
+          "[NEW] Order List"
+        ]
+      ]
+    },
+    {
+      "metric": "Active / inactive customer/ churn customer",
+      "category": "7",
+      "kpi": "Q26",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Churned Users"
+        ],
+        [
+          "2. User Analytics",
+          "Headline Card",
+          "Inactive Users"
+        ],
+        [
+          "2. User Analytics",
+          "Area Chart",
+          "User Retention & Status Trend"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Churned User Personas"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "New vs Old User Orders"
+        ],
+        [
+          "2. User Analytics",
+          "Line Chart",
+          "Retention & Repeat Rate"
+        ],
+        [
+          "2. User Analytics",
+          "Grid Table",
+          "User Retention Cohort"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Customer Churn Drop-Off Inactivity Bands"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Stage Conversion Funnel (Store-wise)"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "First-Service SLA Defection Funnel"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ]
+    }
+  ],
+  "partial": [
+    {
+      "metric": "Total charges paid for return orders",
+      "category": "Sales",
+      "kpi": "Q17",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Lifecycle Stages"
+        ],
+        [
+          "4. Rider Logistics",
+          "Line Chart",
+          "[SUGGESTION] Delivery Cost Per Order"
+        ],
+        [
+          "5. Finance & Revenue",
+          "KPI Card",
+          "[SUGGESTION] Net Profit Margin"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Waterfall",
+          "[SUGGESTION] Contribution Margin Per Store"
+        ],
+        [
+          "8. TAT Analytics",
+          "Headline Card",
+          "RTO Pending"
+        ],
+        [
+          "8. TAT Analytics",
+          "Line Chart",
+          "RTO Pending Trend"
+        ]
+      ],
+      "note": "Needs dedicated field for return logistics fee in DB."
+    },
+    {
+      "metric": "Total Complaints unresolved beyond 48hrs",
+      "category": "Complaints",
+      "kpi": "Q42",
+      "locs": [
+        [
+          "2. User Analytics",
+          "Bar Chart",
+          "Complaints & Refund by Persona"
+        ],
+        [
+          "2. User Analytics",
+          "Table",
+          "Persona Complaint & Ticket Breakdown"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Line Chart",
+          "Refund Leakage Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "Total Complaints Logged"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Headline Card",
+          "SLA Resolved Complaints"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Pie Chart",
+          "Complaint Type Breakdown"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint TAT Trend"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Alert Table",
+          "[SUGGESTION] Revenue at Risk / Fraud Alert List"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Complaint vs Churn vs RTO Correlation"
+        ]
+      ],
+      "note": "Requires a Metabase timestamp duration logic, not a default card yet."
+    },
+    {
+      "metric": "Pressman indiviuall payouts",
+      "category": "Employee/ Ironers",
+      "kpi": "Q9b",
+      "locs": [
+        [
+          "1. Overview Hub",
+          "Headline Card",
+          "Total Ironers"
+        ],
+        [
+          "1. Overview Hub",
+          "Table",
+          "Ironer Performance Summary Table"
+        ],
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Ironer Performance Matrix"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Table",
+          "Pressman Damage Report"
+        ],
+        [
+          "7. Complaint & Quality",
+          "Line Chart",
+          "Staff Complaint Trend"
+        ],
+        [
+          "8. TAT Analytics",
+          "Bar Chart",
+          "Ironer Efficiency (Avg TAT)"
+        ],
+        [
+          "8. TAT Analytics",
+          "Table",
+          "Ironer TAT & Volume Explorer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Top Performing Ironer"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Headline Card",
+          "Avg Time to Iron (Hours)"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Performance Scorecard"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Ironer Summary Report"
+        ]
+      ],
+      "note": "Payout report structure needs formatting on database side (G4)."
+    },
+    {
+      "metric": "COD reconsilation store wise and company wise",
+      "category": "Logistics",
+      "kpi": "Q13",
+      "locs": [
+        [
+          "3. Store Operations",
+          "Table",
+          "Store-wise Rider Performance Matrix"
+        ],
+        [
+          "4. Rider Logistics",
+          "Headline Card",
+          "COD Cash Collected"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] PIDGE COD Order Report"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "[NEW] COD Transaction Report"
+        ],
+        [
+          "5. Finance & Revenue",
+          "Table",
+          "COD Reconciliation Status"
+        ],
+        [
+          "9. Ironer & Staff Performance",
+          "Table",
+          "Rider Leaderboard"
+        ]
+      ],
+      "note": "Reconciliation workflow of rider cash matches needs database structure."
+    }
+  ],
+  "gaps": [
+    {
+      "metric": "Opening stock quanitty",
+      "category": "Stock",
+      "missing": "Missing daily opening stock, closing stock, and receipts database logs."
+    },
+    {
+      "metric": "Closing stock quanitity",
+      "category": "Stock",
+      "missing": "Missing daily opening stock, closing stock, and receipts database logs."
+    },
+    {
+      "metric": "Stocks used on daily /Weekly / Monthly basis",
+      "category": "Stock",
+      "missing": "Missing daily opening stock, closing stock, and receipts database logs."
+    },
+    {
+      "metric": "Stock issue recpits",
+      "category": "Stock",
+      "missing": "Missing daily opening stock, closing stock, and receipts database logs."
+    },
+    {
+      "metric": "Machine down time in Hrs",
+      "category": "Machine Maintaince",
+      "missing": "Missing machine service cost tracking, store maintenance costs, and cleanliness score."
+    },
+    {
+      "metric": "Machine service cost and table description",
+      "category": "Machine Maintaince",
+      "missing": "Missing machine service cost tracking, store maintenance costs, and cleanliness score."
+    },
+    {
+      "metric": "Store level cost of maintance and repairs",
+      "category": "Machine Maintaince",
+      "missing": "Missing machine service cost tracking, store maintenance costs, and cleanliness score."
+    },
+    {
+      "metric": "Store Cleanliness Compliance (%)",
+      "category": "Machine Maintaince",
+      "missing": "Missing machine service cost tracking, store maintenance costs, and cleanliness score."
+    },
+    {
+      "metric": "Pressmen KYC",
+      "category": "Employee/ Ironers",
+      "missing": "Missing pressman KYC status columns."
+    },
+    {
+      "metric": "Good Process following %",
+      "category": "Employee/ Ironers",
+      "missing": "Needs barcode scans at every micro-stage in the workshop."
+    },
+    {
+      "metric": "Bad Process following %",
+      "category": "Employee/ Ironers",
+      "missing": "Needs barcode scans at every micro-stage in the workshop."
+    },
+    {
+      "metric": "Split of process lag and which point/part",
+      "category": "Employee/ Ironers",
+      "missing": "Needs barcode scans at every micro-stage in the workshop."
+    },
+    {
+      "metric": "Effective marketing split",
+      "category": "Marketing",
+      "missing": "No digital marketing spend tracking exists. Blocked by missing marketing spend table."
+    },
+    {
+      "metric": "% of Customers aquired through which meduum",
+      "category": "Marketing",
+      "missing": "No digital marketing spend tracking exists. Blocked by missing marketing spend table."
+    },
+    {
+      "metric": "CAC for each store , including the marketing cost",
+      "category": "Marketing",
+      "missing": "No digital marketing spend tracking exists. Blocked by missing marketing spend table."
+    },
+    {
+      "metric": "Total No of digital markeitng based downloads Vs Active/Inactive customers",
+      "category": "Marketing",
+      "missing": "No digital marketing spend tracking exists. Blocked by missing marketing spend table."
+    },
+    {
+      "metric": "Marking Delayed orders - delivery pending / Ironing pending(received orders(24hrs&24hrs",
+      "category": "Store Wise",
+      "missing": "Requires store manager real-time flag for bags delayed beyond 24 hours."
+    },
+    {
+      "metric": "Showcasing and process retrigger order and return orders",
+      "category": "Retunr and retrigger",
+      "missing": "Requires integration with MoEngage or Clevertap for event-driven message triggers."
+    },
+    {
+      "metric": "Showing data based on their roles with download , edit , view options",
+      "category": "Roles & responsibility",
+      "missing": "None."
+    },
+    {
+      "metric": "Pincode based active/inactive/churn customers",
+      "category": "Pincode",
+      "missing": "Need pincode field mapped in orders and users APIs to track sales, cohorts, and slot trends."
+    },
+    {
+      "metric": "pincode based sales/ promocode",
+      "category": "Pincode",
+      "missing": "Need pincode field mapped in orders and users APIs to track sales, cohorts, and slot trends."
+    },
+    {
+      "metric": "Pincode based Orders and clothes",
+      "category": "Pincode",
+      "missing": "Need pincode field mapped in orders and users APIs to track sales, cohorts, and slot trends."
+    },
+    {
+      "metric": "Pincode based complaints",
+      "category": "Pincode",
+      "missing": "Need pincode field mapped in orders and users APIs to track sales, cohorts, and slot trends."
+    },
+    {
+      "metric": "pincode based slot wise orders",
+      "category": "Pincode",
+      "missing": "Need pincode field mapped in orders and users APIs to track sales, cohorts, and slot trends."
+    },
+    {
+      "metric": "batching of order and route mapping",
+      "category": "Logistics",
+      "missing": "Requires coordinate tracking from rider app and mapping SDK integrations."
+    },
+    {
+      "metric": "Heat mapping",
+      "category": "Logistics",
+      "missing": "Requires coordinate tracking from rider app and mapping SDK integrations."
+    },
+    {
+      "metric": "Ads Platforms",
+      "category": "Complaint managment",
+      "missing": "No digital marketing spend tracking exists. Blocked by missing marketing spend table."
+    },
+    {
+      "metric": "Store wise Received bags and order list",
+      "category": "Order Inventory",
+      "missing": "Needs bag inventory scans inside stores (received list vs delivery-pending bags)."
+    },
+    {
+      "metric": "store wise delivery pending order and bag list",
+      "category": "Order Inventory",
+      "missing": "Needs bag inventory scans inside stores (received list vs delivery-pending bags)."
+    },
+    {
+      "metric": "Creating invoice or bills based on the orders",
+      "category": "Accounting",
+      "missing": "Need backend automated billing and invoice PDF generation."
+    }
+  ]
+}
