@@ -62,9 +62,46 @@ def build_mapping_audit():
         elem_str = ", ".join(mapped_elements) if mapped_elements else "N/A"
         sheet_str = ", ".join(mapped_sheets) if mapped_sheets else "N/A"
         
+        # Determine Target Dashboard Tab/Page
+        if status in ['Covered', 'Partial'] and sheet_str != "N/A":
+            target_tab = sheet_str
+        else:
+            cat_lower = str(cat).lower() if cat else ""
+            if "stock" in cat_lower:
+                target_tab = "3. Store Operations"
+            elif "machine" in cat_lower:
+                target_tab = "3. Store Operations"
+            elif "inventory" in cat_lower:
+                target_tab = "3. Store Operations"
+            elif "pincode" in cat_lower:
+                target_tab = "3. Store Operations & 2. User Analytics"
+            elif "marketing" in cat_lower or "ad platform" in cat_lower:
+                target_tab = "6. Growth & Marketing"
+            elif "accounting" in cat_lower:
+                target_tab = "5. Finance & Revenue"
+            elif "retunr" in cat_lower or "retrigger" in cat_lower:
+                target_tab = "7. Complaint & Quality (RTO) & MoEngage"
+            elif "roles" in cat_lower:
+                target_tab = "10. Masters Configuration"
+            elif "logistics" in cat_lower:
+                target_tab = "4. Rider Logistics"
+            elif "ironers" in cat_lower or "employee" in cat_lower:
+                target_tab = "9. Ironer & Staff Performance"
+            elif "complaint" in cat_lower:
+                target_tab = "7. Complaint & Quality"
+            elif "sales" in cat_lower:
+                target_tab = "5. Finance & Revenue"
+            elif "order" in cat_lower:
+                target_tab = "3. Store Operations"
+            elif "customer" in cat_lower:
+                target_tab = "2. User Analytics"
+            else:
+                target_tab = "3. Store Operations"
+
         audit_rows.append([
             metric, cat, status, kpi_id if kpi_id else "N/A", 
-            elem_str, sheet_str, source, note_covered, note_missing
+            elem_str, sheet_str, source, note_covered, note_missing,
+            target_tab
         ])
 
     # 3. Create the new Audit Workbook
@@ -96,7 +133,7 @@ def build_mapping_audit():
     )
 
     # Title Row
-    ws_out.merge_cells("A1:I1")
+    ws_out.merge_cells("A1:J1")
     title_cell = ws_out.cell(row=1, column=1, value="STEAMEE — Client expectations (Reports 1) mapping audit to Dashboard Specs")
     title_cell.fill = NAVY_FILL
     title_cell.font = Font(name="Calibri", size=14, bold=True, color=WHITE)
@@ -113,7 +150,8 @@ def build_mapping_audit():
         "Mapped Tab in Spec",
         "Technical Source / Solution",
         "What is Covered / Notes",
-        "Gaps & Action Items (Dev Work)"
+        "Gaps & Action Items (Dev Work)",
+        "Target Dashboard Tab / Page"
     ]
     for ci, h in enumerate(headers, 1):
         c = ws_out.cell(row=2, column=ci, value=h)
@@ -167,6 +205,7 @@ def build_mapping_audit():
     ws_out.column_dimensions['F'].width = 25  # Mapped Tab
     ws_out.column_dimensions['H'].width = 45  # Covered Note
     ws_out.column_dimensions['I'].width = 45  # Gap Note
+    ws_out.column_dimensions['J'].width = 32  # Target Page Note
 
     wb_out.save(f_out)
     print("File saved successfully at:", f_out)
