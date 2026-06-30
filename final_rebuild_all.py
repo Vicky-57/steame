@@ -394,9 +394,116 @@ for tab_name, tab_colour, rows in SHEETS:
     ws.column_dimensions['H'].width = 18
     ws.column_dimensions['I'].width = 30
 
-wb2.save(r"d:\Steamee\STEAMEE_Client_Dashboard_Spec_v2.xlsx")
+# ── DYNAMIC MARKETING SHEETS GENERATION ───────────────────────────────────────
+try:
+    mktg_wb = openpyxl.load_workbook(r"d:\Steamee\Steamee_Marketing_Dashboard_Requirements.xlsx", data_only=True)
+    mktg_ws = mktg_wb["Dashboard Specs"]
+
+    def get_role(cat):
+        c = cat.lower() if cat else ""
+        if 'acquisition' in c or 'conversion' in c or 'retention' in c:
+            return 'Marketing & Growth Team'
+        elif 'monetization' in c or 'revenue' in c:
+            return 'CFO / Finance Team'
+        elif 'store' in c or 'geo' in c:
+            return 'Store Manager / Ops Head'
+        elif 'executive' in c:
+            return 'Founder & Management'
+        else:
+            return 'Data Platform / Tech Team'
+
+    def populate_marketing_sheet(ws_dest, is_portal_option):
+        # Title row
+        ws_dest.merge_cells(start_row=1, start_column=1, end_row=1, end_column=len(SPEC_HEADERS))
+        title_text = "Portal + MoEngage (Marketing Architecture)" if is_portal_option else "Metabase + MoEngage (Marketing Architecture)"
+        t = ws_dest.cell(row=1, column=1, value=f"STEAMEE — {title_text}")
+        t.fill = NAVY_FILL if is_portal_option else TEAL_FILL
+        t.font = TITLE_FONT
+        t.alignment = Alignment(horizontal="center", vertical="center")
+        ws_dest.row_dimensions[1].height = 28
+
+        # Header row
+        for ci, h in enumerate(SPEC_HEADERS, 1):
+            c = ws_dest.cell(row=2, column=ci, value=h)
+            c.fill = TEAL_FILL if is_portal_option else NAVY_FILL
+            c.font = HDR_FONT
+            c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+            c.border = THIN_BORDER
+        ws_dest.row_dimensions[2].height = 28
+
+        # Data rows
+        dest_ri = 3
+        for mktg_ri in range(4, mktg_ws.max_row + 1):
+            row_vals = [cell.value for cell in mktg_ws[mktg_ri]]
+            if not any(row_vals): continue
+            m_id, name, cat, priority, obj, metrics, dims, gran, sources, visuals, dod, deps = row_vals[:12]
+            
+            elem_type = f"{cat} ({priority})"
+            elem_name = f"[{m_id}] {name}"
+            shows = metrics if metrics else ""
+            role = get_role(cat)
+            viz = visuals if visuals else ""
+            purpose = f"{obj}. Dependencies: {deps if deps else 'None'}"
+            filters = f"Dimensions: {dims}. Granularity: {gran if gran else 'Monthly'}"
+            
+            # Check source
+            is_moengage = 'moengage' in str(sources).lower() or 'app analytics' in str(sources).lower() or 'app_open' in str(sources).lower()
+            
+            if is_portal_option:
+                source_val = 'MoEngage Events' if is_moengage else 'Portal Backend APIs'
+                status_val = 'Ready to Build (MoEngage Event)' if is_moengage else 'Requires Portal API & UI Dev'
+            else:
+                source_val = 'MoEngage Events' if is_moengage else 'Metabase SQL / Postgres'
+                status_val = 'Ready to Build (MoEngage Event)' if is_moengage else 'Ready to Build (SQL Metabase Query)'
+                
+            row_data = [elem_type, elem_name, shows, role, viz, purpose, filters, source_val, status_val]
+            
+            for ci, val in enumerate(row_data, 1):
+                c = ws_dest.cell(row=dest_ri, column=ci, value=val)
+                c.font = REG_FONT
+                c.border = THIN_BORDER
+                c.alignment = Alignment(horizontal="left", vertical="center", wrap_text=True)
+                c.fill = GREY_FILL if dest_ri % 2 == 0 else PatternFill("solid", fgColor="FFFFFF")
+                
+                # Format Build Status (col 9)
+                if ci == 9:
+                    v_str = str(val)
+                    if "Ready" in v_str:
+                        c.fill = G_FILL; c.font = G_FONT
+                    elif "Requires" in v_str:
+                        c.fill = Y_FILL; c.font = Y_FONT
+                    c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+                    
+                # Format Element Type (col 1)
+                if ci == 1:
+                    c.fill = PatternFill("solid", fgColor="EBF5FB")
+                    c.font = Font(name="Calibri", size=10, color="1A5276", italic=True)
+                    
+            ws_dest.row_dimensions[dest_ri].height = 48
+            dest_ri += 1
+            
+        ws_dest.freeze_panes = "A3"
+        auto_width(ws_dest, max_w=65)
+        ws_dest.column_dimensions['A'].width = 18
+        ws_dest.column_dimensions['B'].width = 32
+        ws_dest.column_dimensions['C'].width = 55
+        ws_dest.column_dimensions['E'].width = 22
+        ws_dest.column_dimensions['H'].width = 18
+        ws_dest.column_dimensions['I'].width = 30
+
+    ws12 = wb2.create_sheet(title="12. Portal + MoEngage (Mktg)")
+    ws12.sheet_properties.tabColor = NAVY
+    populate_marketing_sheet(ws12, is_portal_option=True)
+
+    ws13 = wb2.create_sheet(title="13. Metabase + MoEngage (Mktg)")
+    ws13.sheet_properties.tabColor = TEAL
+    populate_marketing_sheet(ws13, is_portal_option=False)
+
+except Exception as ex:
+    print("⚠️ Warning generating marketing sheets:", ex)
+
 wb2.save(r"d:\Steamee\STEAMEE_Client_Dashboard_Spec.xlsx")
-print("✅ STEAMEE_Client_Dashboard_Spec_v2.xlsx and STEAMEE_Client_Dashboard_Spec.xlsx rebuilt successfully.")
+print("✅ STEAMEE_Client_Dashboard_Spec.xlsx rebuilt successfully with marketing sheets.")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # 2.  GAP ANALYSIS — regenerate

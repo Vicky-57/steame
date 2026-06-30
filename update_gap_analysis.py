@@ -367,6 +367,61 @@ new_kpi_additions = [
 
 row_data_list.extend(new_kpi_additions)
 
+# ── DYNAMIC MARKETING REQS IN GAP ANALYSIS ───────────────────────────────────
+try:
+    mktg_wb = openpyxl.load_workbook(r"d:\Steamee\Steamee_Marketing_Dashboard_Requirements.xlsx", data_only=True)
+    mktg_ws = mktg_wb["Dashboard Specs"]
+
+    mktg_gap_additions = []
+    for mktg_ri in range(4, mktg_ws.max_row + 1):
+        row_vals = [cell.value for cell in mktg_ws[mktg_ri]]
+        if not any(row_vals): continue
+        m_id, name, cat, priority, obj, metrics, dims, gran, sources, visuals, dod, deps = row_vals[:12]
+        
+        is_moengage = 'moengage' in str(sources).lower() or 'app analytics' in str(sources).lower() or 'app_open' in str(sources).lower()
+        
+        # 1. Option 1: Portal + MoEngage
+        status_p = "Covered" if is_moengage else "Gap"
+        source_p = "MoEngage Events" if is_moengage else "Portal Backend APIs"
+        covered_p = f"Option 1 (Portal): {metrics if metrics else ''}"
+        missing_p = "None (MoEngage tracked)" if is_moengage else f"Requires custom Portal DB endpoints and frontend UI for: {name}."
+        new_api_p = "No" if is_moengage else "Yes (custom API)"
+        
+        mktg_gap_additions.append([
+            f"[Portal] [{m_id}] {name}",
+            f"Marketing - {cat}",
+            status_p,
+            f"{m_id}",
+            source_p,
+            covered_p,
+            missing_p,
+            new_api_p,
+            priority
+        ])
+
+        # 2. Option 2: Metabase + MoEngage
+        status_m = "Covered"
+        source_m = "MoEngage Events" if is_moengage else "Metabase SQL Query / Postgres"
+        covered_m = f"Option 2 (Metabase): {metrics if metrics else ''}"
+        missing_m = "None (MoEngage tracked)" if is_moengage else "None. Directly query Postgres read-replica."
+        new_api_m = "No"
+        
+        mktg_gap_additions.append([
+            f"[Metabase] [{m_id}] {name}",
+            f"Marketing - {cat}",
+            status_m,
+            f"{m_id}",
+            source_m,
+            covered_m,
+            missing_m,
+            new_api_m,
+            priority
+        ])
+
+    row_data_list.extend(mktg_gap_additions)
+except Exception as ex:
+    print("⚠️ Warning generating marketing gaps:", ex)
+
 for row_idx, r_val in enumerate(row_data_list, 2):
     ws_gap.append(r_val)
     # Styles
